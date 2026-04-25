@@ -100,35 +100,6 @@ Data × Solutions
   </a>
 </p>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 GITHUB ANALYTICS                                                          -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-## GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jevonkagenou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9&icon_color=9745F5&ring_color=BB86FC&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img width="49%" src="https://streak-stats.demolab.com?user=jevonkagenou&theme=midnight-purple&hide_border=true&background=0D1117&ring=BB86FC&fire=E040FB&currStreakLabel=BB86FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevonkagenou&layout=compact&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9&icon_color=9745F5&langs_count=8" alt="Top Languages" />
-</p>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 CONTRIBUTION GRAPH                                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevonkagenou&bg_color=0D1117&color=BB86FC&line=9745F5&point=E040FB&area_color=6C3CE9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-</p>
 
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
