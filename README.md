@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=false&random=false&width=620&height=55&lines=%F0%9F%93%8A+Transforming+Data+Into+Insights;%F0%9F%92%BB+Building+Scalable+Applications;%F0%9F%A4%96+Exploring+Machine+Learning;%E2%9C%A8+Crafting+Clean+%26+Elegant+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=false&random=false&width=620&height=55&lines=Transforming+Data+Into+Insights;Building+Scalable+Applications;Exploring+Machine+Learning;Crafting+Clean+%26+Elegant+Code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,13 +26,13 @@
 <!-- 👤 ABOUT ME                                                                  -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## 💠 About Me
+## About Me
 
 <div align="center">
 
 ```yaml
-🎓  Student at Politeknik Negeri Malang
-📍  Based in Malang, Indonesia
+Student at Politeknik Negeri Malang
+Based in Malang, Indonesia
 ```
 
 </div>
@@ -43,28 +43,28 @@
 <tr>
 <td align="center" width="200">
 
-🔬 **Focus**
+**Focus**
 <br>
 Data Science & ML
 
 </td>
 <td align="center" width="200">
 
-💻 **Building**
+**Building**
 <br>
 SyncBudget App
 
 </td>
 <td align="center" width="200">
 
-🌱 **Learning**
+**Learning**
 <br>
 Deep Learning
 
 </td>
 <td align="center" width="200">
 
-🎯 **Goal**
+**Goal**
 <br>
 Data × Solutions
 
@@ -86,7 +86,7 @@ Data × Solutions
 <!-- 🚀 FEATURED PROJECTS                                                         -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/jevonkagenou/syncbudget-web">
@@ -104,7 +104,7 @@ Data × Solutions
 <!-- 📈 GITHUB ANALYTICS                                                          -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jevonkagenou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9&icon_color=9745F5&ring_color=BB86FC&count_private=true" alt="GitHub Stats" />
@@ -122,7 +122,7 @@ Data × Solutions
 <!-- 📊 CONTRIBUTION GRAPH                                                        -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevonkagenou&bg_color=0D1117&color=BB86FC&line=9745F5&point=E040FB&area_color=6C3CE9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
@@ -130,27 +130,13 @@ Data × Solutions
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 SNAKE ANIMATION                                                           -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-snake.svg" />
-  </picture>
-</p>
-
-<br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌐 CONNECT WITH ME                                                           -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
