@@ -130,18 +130,6 @@ Data × Solutions
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevonkagenou&bg_color=0D1117&color=BB86FC&line=9745F5&point=E040FB&area_color=6C3CE9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
-<br>
-
-## Contribution Pac-Man
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-pacman.svg" />
-    <img alt="Contribution Pac-Man" src="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-pacman.svg" />
-  </picture>
-</p>
-
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌐 CONNECT WITH ME                                                           -->
