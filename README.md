@@ -17,7 +17,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jevonkagenou&label=Profile%20Views&color=6C3CE9&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/jevonkagenou?label=Followers&style=for-the-badge&color=9745F5&labelColor=1A1B27" alt="Followers" />
+  <a href="https://github.com/jevonkagenou?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-0-9745F5?style=for-the-badge&labelColor=1A1B27" alt="Followers" />
+  </a>
 </p>
 
 <br>
@@ -130,6 +132,15 @@ Data × Solutions
 
 <br>
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jevonkagenou/jevonkagenou/output/github-snake.svg" />
+  </picture>
+</p>
 
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
