@@ -90,17 +90,27 @@ Data × Solutions
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/jevonkagenou/house-prices-predict">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jevonkagenou&amp;repo=house-prices-predict&amp;bg_color=0D1117&amp;title_color=BB86FC&amp;icon_color=9745F5&amp;text_color=C9D1D9&amp;border_color=30363D" alt="House Prices Prediction" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jevonkagenou/syncbudget-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jevonkagenou&amp;repo=syncbudget-web&amp;bg_color=0D1117&amp;title_color=BB86FC&amp;icon_color=9745F5&amp;text_color=C9D1D9&amp;border_color=30363D" alt="SyncBudget Web" />
-  </a>
-</div>
-
-
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jevonkagenou/house-prices-predict">House Prices Prediction</a></h3>
+      <p>Solusi analitik prediktif tingkat lanjut menggunakan teknik Feature Engineering, Target Encoding, dan Grandmaster Stacking Ensemble untuk dataset properti Kaggle.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/XGBoost-141414?style=flat-square&logo=xgboost&logoColor=white" />
+        <img src="https://img.shields.io/badge/Optuna-2563EB?style=flat-square&logo=google-cloud&logoColor=white" alt="Optuna" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jevonkagenou/syncbudget-web">SyncBudget Web</a></h3>
+      <p>Sistem backend manajemen keuangan lintas platform. Proyek ini mengusung model bisnis penjualan dan lisensi source-code untuk integrasi pencatatan web dan mobile.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌐 CONNECT WITH ME                                                           -->
@@ -124,9 +134,6 @@ Data × Solutions
   <img src="https://img.shields.io/badge/-Felix%20Alberta%20Jevon-9745F5?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="35" />
 </a>
 &emsp;
-<a href="https://github.com/jevonkagenou" target="_blank">
-  <img src="https://img.shields.io/badge/-jevonkagenou-6C3CE9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" />
-</a>
 
 <br><br>
 
