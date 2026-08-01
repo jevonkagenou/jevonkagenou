@@ -91,12 +91,12 @@ Data × Solutions
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/jevonkagenou/syncbudget-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jevonkagenou&repo=syncbudget-web&bg_color=0D1117&title_color=BB86FC&icon_color=9745F5&text_color=C9D1D9&border_color=30363D" alt="SyncBudget Web" />
+  <a href="https://github.com/jevonkagenou/house-prices-predict">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jevonkagenou&repo=house-prices-predict&bg_color=0D1117&title_color=BB86FC&icon_color=9745F5&text_color=C9D1D9&border_color=30363D" alt="House Prices Prediction" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/jevonkagenou/syncbudget-mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jevonkagenou&repo=syncbudget-mobile&bg_color=0D1117&title_color=BB86FC&icon_color=9745F5&text_color=C9D1D9&border_color=30363D" alt="SyncBudget Mobile" />
+  <a href="https://github.com/jevonkagenou/syncbudget-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jevonkagenou&repo=syncbudget-web&bg_color=0D1117&title_color=BB86FC&icon_color=9745F5&text_color=C9D1D9&border_color=30363D" alt="SyncBudget Web" />
   </a>
 </p>
 
