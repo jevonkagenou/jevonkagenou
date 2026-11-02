@@ -90,20 +90,41 @@ Data × Solutions
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jevonkagenou/house-prices-predict">House Prices Prediction</a></h3>
-      <p>Advanced predictive analytics solution utilizing Feature Engineering, Target Encoding, and Grandmaster Stacking Ensemble techniques for the Kaggle housing dataset.</p>
+      <h3><a href="https://github.com/jevonkagenou/spaceship-titanic">Spaceship Titanic</a></h3>
+      <p>Kaggle competition solution predicting which passengers were transported to an alternate dimension. Built with feature engineering, ensemble learning, and hyperparameter tuning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jevonkagenou/house-prices-predict">House Pricing</a></h3>
+      <p>Advanced predictive analytics utilizing Feature Engineering, Target Encoding, and Grandmaster Stacking Ensemble techniques for the Kaggle housing dataset.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/XGBoost-141414?style=flat-square&logo=xgboost&logoColor=white" />
         <img src="https://img.shields.io/badge/Optuna-2563EB?style=flat-square&logo=google-cloud&logoColor=white" alt="Optuna" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jevonkagenou/syncbudget-web">SyncBudget Web</a></h3>
-      <p>Cross-platform financial management backend system. This project adopts a source-code sales and licensing business model for web and mobile integration.</p>
+      <h3><a href="https://github.com/jevonkagenou/sipaling-inventory">SiPaling Inventory</a></h3>
+      <p>A modern inventory management system with real-time stock tracking, transaction history, and role-based access control built for small to medium businesses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jevonkagenou/syncbudget-web">E-Budgeting Web</a></h3>
+      <p>Cross-platform financial management system with role-based dashboards, budget tracking, and annual reporting — built for organizational financial governance.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
     </td>
   </tr>
